@@ -71,21 +71,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '5',
 			name: 'Instagram',
 			icon: 'instagram',
 			link: 'https://instagram.com/',
 		},
 		{
+			id: '5',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
+		},
+		{
 			id: '6',
-			name: '*',
-			icon: 'asterisk',
-			link: '/',
+			name: 'WhatsApp',
+			icon: 'square-message',
+			link: 'https://web.whatsapp.com/',
 		},
 	],
 
@@ -139,6 +139,10 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'ArtStation',
+					link: 'https://www.artstation.com/',
+				},
+				{
 					name: 'Canva',
 					link: 'https://www.canva.com/',
 				},
@@ -150,10 +154,7 @@ const CONFIG = {
 					name: 'Ko-fi',
 					link: 'https://ko-fi.com/',
 				},
-				{
-					name: 'Ko-fi',
-					link: 'https://ko-fi.com/',
-				},
+				
 			],
 		},
 		{
