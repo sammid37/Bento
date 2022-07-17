@@ -65,28 +65,29 @@ const CONFIG = {
 		},
 		{
 			id: '3',
+			name: 'WhatsApp',
+			icon: 'message-square',
+			link: 'https://web.whatsapp.com/',
+		},
+		{
+			id: '4',
 			name: 'YouTube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Instagram',
 			icon: 'instagram',
 			link: 'https://instagram.com/',
 		},
 		{
-			id: '5',
+			id: '6',
 			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
-		{
-			id: '6',
-			name: 'WhatsApp',
-			icon: 'square-message',
-			link: 'https://web.whatsapp.com/',
-		},
+		
 	],
 
 	secondButtonsContainer: [
