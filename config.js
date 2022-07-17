@@ -69,6 +69,24 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
+		{
+			id: '4',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
+		},
+		{
+			id: '5',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://instagram.com/',
+		},
+		{
+			id: '6',
+			name: '*',
+			icon: 'asterisk',
+			link: '/',
+		},
 	],
 
 	secondButtonsContainer: [
@@ -132,7 +150,10 @@ const CONFIG = {
 					name: 'Ko-fi',
 					link: 'https://ko-fi.com/',
 				},
-				
+				{
+					name: 'Ko-fi',
+					link: 'https://ko-fi.com/',
+				},
 			],
 		},
 		{
